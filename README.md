@@ -9,7 +9,7 @@
 <p>I'm Brazilian and I'm studying Systems Development at Etec. I'm also an integrated high school student at Eniac.</p>
 
 ## My skills
-<p>I'm a front-end programmer who strives to improve techniques to provide the best user experience. I aim for performance, ceo, organization, accessibility and a good user interface for my projects. My goal is to help the user have the best experience through aesthetic resources, and also to help the developer community understand and use new technologies, so that they always follow good practices.</p>
+<p>I'm a front-end programmer who strives to improve techniques to provide the best user experience. I aim for performance, seo, organization, accessibility and a good user interface for my projects. My goal is to help the user have the best experience through aesthetic resources, and also to help the developer community understand and use new technologies, so that they always follow good practices.</p>
 
 **My highlight:** 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
