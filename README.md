@@ -38,4 +38,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-view-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-henrique-perusin-de-souza-a51321315)](https://www.linkedin.com/in/flávio-henrique-perusin-de-souza-a51321315)
 [![Gmail Badge](https://img.shields.io/badge/-send-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:106922023@eniac.edu.br)](mailto:106922023@eniac.edu.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Fh-Shadow)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/flavioow)
